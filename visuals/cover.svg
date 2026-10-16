@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="768" viewBox="0 0 1920 768"><rect width="1920" height="768" fill="#F3F7FF"/><circle cx="1750" cy="160" r="440" fill="#2374FF" opacity=".13"/><g transform="translate(390 195) scale(1.05)" stroke="#2374FF" stroke-width="7" fill="none" stroke-linejoin="round"><path d="M12 30 50 10 88 30 50 52z M12 30v43l38 21 38-21V30 M50 52v42 M31 20l38 21"/></g><text x="520" y="278" fill="#0C2340" font-family="Arial, sans-serif" font-size="98" font-weight="800" >ХозОпт</text><text x="400" y="390" fill="#0C2340" font-family="Arial, sans-serif" font-size="64" font-weight="700" >Хозяйственные</text><text x="400" y="470" fill="#0C2340" font-family="Arial, sans-serif" font-size="64" font-weight="700" >товары оптом</text><g transform="translate(1190 175) scale(1.35)">
+ <ellipse cx="195" cy="295" rx="210" ry="24" fill="#0C2340" opacity=".08"/>
+ <rect x="15" y="138" width="195" height="143" rx="12" fill="#2374FF"/>
+ <path d="M15 138 76 104h195l-61 34z" fill="#0C2340" opacity=".18"/>
+ <path d="M210 138 271 104v143l-61 34z" fill="#0C2340" opacity=".32"/>
+ <path d="M112 138v143" stroke="#FFFFFF" stroke-width="18" opacity=".6"/>
+ <rect x="228" y="60" width="85" height="205" rx="22" fill="#FFFFFF"/>
+ <rect x="250" y="28" width="39" height="40" rx="7" fill="#0C2340"/>
+ <path d="M263 28v-15h57" stroke="#0C2340" stroke-width="12" fill="none" stroke-linecap="round"/>
+ <rect x="242" y="128" width="57" height="65" rx="8" fill="#2374FF"/>
+ <rect x="305" y="207" width="102" height="42" rx="10" fill="#0C2340"/>
+ <path d="M316 250v22m14-22v22m14-22v22m14-22v22m14-22v22m14-22v22" stroke="#2374FF" stroke-width="6"/>
+ <path d="M352 206 374 100" stroke="#0C2340" stroke-width="15" stroke-linecap="round"/>
+ </g></svg>

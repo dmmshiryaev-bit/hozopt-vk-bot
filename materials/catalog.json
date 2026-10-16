@@ -1,0 +1,182 @@
+[
+  {
+    "sku": "ХО-001",
+    "name": "Губки для посуды, набор 5 шт.",
+    "category": "Уборка",
+    "unit": "набор",
+    "unit_price": 36,
+    "pack_qty": 40,
+    "pack_price": 1440
+  },
+  {
+    "sku": "ХО-002",
+    "name": "Салфетка микрофибра 30×30 см",
+    "category": "Уборка",
+    "unit": "шт.",
+    "unit_price": 42,
+    "pack_qty": 50,
+    "pack_price": 2100
+  },
+  {
+    "sku": "ХО-003",
+    "name": "Перчатки хозяйственные, размер M",
+    "category": "Уборка",
+    "unit": "пара",
+    "unit_price": 58,
+    "pack_qty": 24,
+    "pack_price": 1392
+  },
+  {
+    "sku": "ХО-004",
+    "name": "Перчатки хозяйственные, размер L",
+    "category": "Уборка",
+    "unit": "пара",
+    "unit_price": 58,
+    "pack_qty": 24,
+    "pack_price": 1392
+  },
+  {
+    "sku": "ХО-005",
+    "name": "Мешки для мусора 30 л, 30 шт.",
+    "category": "Расходные товары",
+    "unit": "рулон",
+    "unit_price": 48,
+    "pack_qty": 30,
+    "pack_price": 1440
+  },
+  {
+    "sku": "ХО-006",
+    "name": "Мешки для мусора 60 л, 20 шт.",
+    "category": "Расходные товары",
+    "unit": "рулон",
+    "unit_price": 67,
+    "pack_qty": 24,
+    "pack_price": 1608
+  },
+  {
+    "sku": "ХО-007",
+    "name": "Мешки для мусора 120 л, 10 шт.",
+    "category": "Расходные товары",
+    "unit": "рулон",
+    "unit_price": 95,
+    "pack_qty": 20,
+    "pack_price": 1900
+  },
+  {
+    "sku": "ХО-008",
+    "name": "Пакеты для заморозки, 100 шт.",
+    "category": "Хранение",
+    "unit": "уп.",
+    "unit_price": 72,
+    "pack_qty": 20,
+    "pack_price": 1440
+  },
+  {
+    "sku": "ХО-009",
+    "name": "Плёнка пищевая, 20 м",
+    "category": "Хранение",
+    "unit": "рулон",
+    "unit_price": 64,
+    "pack_qty": 24,
+    "pack_price": 1536
+  },
+  {
+    "sku": "ХО-010",
+    "name": "Фольга алюминиевая, 10 м",
+    "category": "Хранение",
+    "unit": "рулон",
+    "unit_price": 89,
+    "pack_qty": 24,
+    "pack_price": 2136
+  },
+  {
+    "sku": "ХО-011",
+    "name": "Щётка для мытья посуды",
+    "category": "Уборка",
+    "unit": "шт.",
+    "unit_price": 55,
+    "pack_qty": 36,
+    "pack_price": 1980
+  },
+  {
+    "sku": "ХО-012",
+    "name": "Совок со щёткой",
+    "category": "Уборка",
+    "unit": "комплект",
+    "unit_price": 165,
+    "pack_qty": 12,
+    "pack_price": 1980
+  },
+  {
+    "sku": "ХО-013",
+    "name": "Ведро пластиковое, 10 л",
+    "category": "Инвентарь",
+    "unit": "шт.",
+    "unit_price": 145,
+    "pack_qty": 10,
+    "pack_price": 1450
+  },
+  {
+    "sku": "ХО-014",
+    "name": "Таз пластиковый, 12 л",
+    "category": "Инвентарь",
+    "unit": "шт.",
+    "unit_price": 175,
+    "pack_qty": 10,
+    "pack_price": 1750
+  },
+  {
+    "sku": "ХО-015",
+    "name": "Швабра с насадкой микрофибра",
+    "category": "Инвентарь",
+    "unit": "шт.",
+    "unit_price": 390,
+    "pack_qty": 6,
+    "pack_price": 2340
+  },
+  {
+    "sku": "ХО-016",
+    "name": "Насадка для швабры, 40 см",
+    "category": "Инвентарь",
+    "unit": "шт.",
+    "unit_price": 135,
+    "pack_qty": 20,
+    "pack_price": 2700
+  },
+  {
+    "sku": "ХО-017",
+    "name": "Средство для мытья посуды, 500 мл",
+    "category": "Бытовая химия",
+    "unit": "флакон",
+    "unit_price": 78,
+    "pack_qty": 12,
+    "pack_price": 936
+  },
+  {
+    "sku": "ХО-018",
+    "name": "Средство для мытья стёкол, 500 мл",
+    "category": "Бытовая химия",
+    "unit": "флакон",
+    "unit_price": 92,
+    "pack_qty": 12,
+    "pack_price": 1104
+  },
+  {
+    "sku": "ХО-019",
+    "name": "Жидкое мыло, 500 мл",
+    "category": "Бытовая химия",
+    "unit": "флакон",
+    "unit_price": 85,
+    "pack_qty": 12,
+    "pack_price": 1020
+  },
+  {
+    "sku": "ХО-020",
+    "name": "Чистящий порошок, 400 г",
+    "category": "Бытовая химия",
+    "unit": "банка",
+    "unit_price": 69,
+    "pack_qty": 24,
+    "pack_price": 1656
+  }
+]
